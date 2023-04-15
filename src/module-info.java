@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author usrin
- *
- */
-module stringprogramss {
-}
